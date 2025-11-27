@@ -1,7 +1,7 @@
 # HTML & CSS Practice
 
 This repository contains small practice projects as I learn HTML and CSS.  
-Each folder focuses on a specific concept such as text styling or building buttons.
+Each folder focuses on a specific concept, such as text styling or building buttons.
 
 ---
 
@@ -11,38 +11,51 @@ HTML-CSS-Practice/
 │
 ├── 01-buttons/
 │ ├── index.html
-│ └── styles/
-│ └── buttons.css
+│ └── styles/buttons.css
 │
 ├── 02-text/
 │ ├── index.html
-│ └── styles/
-│ └── text.css
+│ └── styles/text.css
+│
+├── 03-youtubeclone/ (WIP)
+│ ├── youtube.html
+│ └── thumbnails/
 │
 └── README.md
 
 
-- **01-buttons** → Practice creating and styling buttons with CSS  
-- **02-text** → Practice typography, fonts, spacing, and text styling  
+
+### Project Summaries
+
+- **01-buttons** — Practice creating and styling different button types  
+- **02-text** — Typography, fonts, spacing, and text styling exercises  
+- **03-youtubeclone (in progress)** — YouTube homepage layout clone using HTML & CSS
 
 ---
-
 
 ## 🎯 Purpose
 
-This repository helps me:
+This repo helps me:
 
-- Practice writing clean HTML  
-- Learn CSS fundamentals step by step  
-- Keep my learning organized by topic  
-- Build a mini-portfolio of progress  
+- Practice clean and semantic HTML  
+- Improve CSS fundamentals step-by-step  
+- Stay organized with a topic-based folder structure  
+- Track my progress as I build a mini-portfolio
 
 ---
 
-## 📚 Tools / Resources Used
+## 🛠 Tools & Technologies
 
 - HTML5  
 - CSS3  
-- Google Fonts  
 - Visual Studio Code  
-- Live Server (optional, for real-time preview)
+- Live Server (optional preview)  
+- Google Fonts
+
+---
+
+## 🚧 Work in Progress
+
+I update this repository regularly as I continue learning.  
+More projects will be added soon!
+
