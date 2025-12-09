@@ -1,61 +1,26 @@
-# HTML & CSS Practice
+## 03 — YouTube Homepage Clone ✅
 
-This repository contains small practice projects as I learn HTML and CSS.  
-Each folder focuses on a specific concept, such as text styling or building buttons.
+A static clone of the YouTube homepage built using **HTML & CSS only**.
 
----
+### ✅ What I practiced
+- Semantic HTML structure
+- CSS Flexbox & Grid
+- Fixed header and sidebar layouts
+- Nested layouts (thumbnail + video info grid)
+- Tooltips and hover states
+- Responsive spacing and alignment
+- Clean CSS file separation:
+  - `general.css`
+  - `header.css`
+  - `video.css`
+  - `sidebar.css`
 
-## 📁 Project Structure
+### 📌 Project Status
+**Completed (HTML & CSS learning goal achieved).**  
+This project served as a foundation to become comfortable with layout, structure, and styling before moving on to JavaScript.
 
-HTML-CSS-Practice/
-│
-├── 01-buttons/
-│ ├── index.html
-│ └── styles/buttons.css
-│
-├── 02-text/
-│ ├── index.html
-│ └── styles/text.css
-│
-├── 03-youtubeclone/ (WIP)
-│ ├── youtube.html
-│ └── thumbnails/
-│
-└── README.md
-
-
-
-### Project Summaries
-
-- **01-buttons** — Practice creating and styling different button types  
-- **02-text** — Typography, fonts, spacing, and text styling exercises  
-- **03-youtubeclone (in progress)** — YouTube homepage layout clone using HTML & CSS
+No JavaScript functionality is included by design.
 
 ---
 
-## 🎯 Purpose
-
-This repo helps me:
-
-- Practice clean and semantic HTML  
-- Improve CSS fundamentals step-by-step  
-- Stay organized with a topic-based folder structure  
-- Track my progress as I build a mini-portfolio
-
----
-
-## 🛠 Tools & Technologies
-
-- HTML5  
-- CSS3  
-- Visual Studio Code  
-- Live Server (optional preview)  
-- Google Fonts
-
----
-
-## 🚧 Work in Progress
-
-I update this repository regularly as I continue learning.  
-More projects will be added soon!
-
+✅ **Next step:** JavaScript fundamentals and DOM manipulation.
